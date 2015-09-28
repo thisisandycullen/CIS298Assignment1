@@ -1,8 +1,8 @@
 # Assignment 1 - Your First Application and Introduction to Git
 
-## Author
+## Author - Andy Cullen
 
-## Description
+## Description:
 
 Create a person counter. The UI should have a + button, and a - button as well as a textview to store the value of the current number.
 When the app launches, the counter will be at zero. When the + button is pressed, it will increase the counter. When the - button is pressed, it will decrease the number.
@@ -23,8 +23,8 @@ Solution Requirements:
 This application should be very similar to the first application in the book.
 The focus with this application should be getting familiar with Android Studio and Git.
 
-## Outside Resources Used
+## Outside Resources Used - None, other than the textbook
 
-## Known Problems, Issues, And/Or Errors in the Program
+## Known Problems, Issues, And/Or Errors in the Program - Works great!
 
 
